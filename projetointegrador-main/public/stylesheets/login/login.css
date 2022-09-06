@@ -1,0 +1,11 @@
+
+.login-bg {
+    margin-bottom: 80px auto ;
+    padding: 100px auto;
+    margin-top: 40px auto;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,54 @@
+.contato-formulário {
+    margin-top: 80px;
+    margin-bottom: 40px;
+    font-size: 64px;
+    font-family: 'Poppins';
+    text-align: center;
+}
+
+.cadastro {
+    grid-column-start: 2;
+    
+}
+
+.cadastro-bg {
+    margin-bottom: 80px auto;
+    margin-top: 100px auto;
+    padding: 200px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    
+}
+
+/* PAGINA CLIENTES TESTE */   
+
+.row {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    gap: 1rem;
+    }
+    
+    table.turmas {
+    width: 100%;
+    border-collapse: collapse;
+    }
+    
+    table.turmas thead th {
+    text-align: start;
+    }
+    
+    table.turmas tbody tr td {
+    border-bottom: solid 0.01rem gray;
+    }
+    
+    table.turmas thead tr {
+    border-bottom: solid 0.01rem gray;
+    }
+    
+    .turmas-header {
+    font-weight: 400;
+    margin-bottom: 1rem;
+    }
